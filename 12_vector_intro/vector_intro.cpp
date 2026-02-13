@@ -46,6 +46,9 @@ int main (void) {
     v2.insert(v2.end() - 2, 500);
     print(v2);
 
+    // Erase (iterator)
+    v3.erase(v3.begin() + 1); // Remove the second element
+
     return 0;
 }
 

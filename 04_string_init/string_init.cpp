@@ -1,3 +1,5 @@
+//String initialization
+
 #include <iostream>
 #include <string>
 
